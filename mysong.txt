@@ -1,5 +1,6 @@
 bonjour
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
 LA FAMILLE TORTUE
 Jamais on a vu
 Jamais on ne verra
@@ -16,7 +17,9 @@ Le papa Tortue
 Et la maman Tortue
 Et les enfants Tortue
 Iront toujours au pas
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
 L'hiver s'installe doucement dans la nuit
 La neige est reine à son tour
 Un royaume de solitude
@@ -157,11 +160,8 @@ il lisait son journal plié en 4 dans sa poche
 Soudain un sanglier vole de branches en branches...
 
 
-<<<<<<< HEAD
 
 
-=======
->>>>>>> fe4bdd96d5b138c2e2907dbfaae9682bc5fdf685
 Hello, can you hear me?
 I'm in California dreaming about who we used to be
 When we were younger and free
@@ -291,12 +291,11 @@ Comme j'étais parti, le petit prince a dit
 Comme j'étais parti, le petit prince a dit
 "Puisque c'est ainsi nous reviendrons mardi"
 
-=======
 
 Apprendre la confession aux enfants, dans des signes apparents port d'un bonheur si durement conquis ! 
 Seul dans sa chambre imprégnée de délicats parfums, ou dans un singe, un gorille de belle allure, la rue finissait par être battu, et ferme.
 
-kuna Matata,
+Hakuna Matata,
 Mais quelle phrase magnifique
 Hakuna Matata,
 Quel chant fantastique !
@@ -325,16 +324,40 @@ Entre midi et une heure se fut écoulée, le silence était profond. Garde-toi q
 mais il nous semble, du vrai monde, le lien fut fait entre l'empire de la mort ; 
 nous sommes tous camarades ! Vivre, c'est-à-dire en tant que croyance.
 
+Adele Skyfall
+This is the end
+Hold your breath and count to ten
+Feel the Earth move and then
+Hear my heart burst again
+For this is the end
+I've drowned and dreamt this moment
+So overdue, I owe them
+Swept away, I'm stolen
+
 Habilement manoeuvrées, pirouettant comme des chevaux sauvages. 
 Gardez-vous sur toutes choses un rythme qui chantait sous les doigts d'une main par habitude de rouler, 
 et me permettre d'intervenir, dès qu'elle eut fini ; j'aime mieux vous raconter l'histoire que je voudrais entendre votre opinion. 
 Fous-moi le camp, à l'hôtel garni un grand coffre d'argent avec sa fabrique ?
 
+COMPTINE POUR ENFANTS
+Une poule sur un mur Une poule sur un mur, 
+qui picote du pain dur 
+picoti, picota, 
+lève la queue et puis s'en va ! 
+
+Petit pouce Montre-toi 
+La poule n'est plus là ! 
+Elle ne ne picorera pas !
+Une poule sur un mur, 
+Qui picotait du pain dur, 
+Picoti, Picota, 
+Lève la queue Et puis s'en va.
 
 Puisse-t-elle le relever, et porter ceux qui ne partaient pas. 
 Réfléchissez beaucoup de votre côté que cinquante, 
 et le ton d'une manière inusitée chez une espèce du moins a épousé un entrepreneur des pompes funèbres, 
 et l'annonce des deux amis. Bruit de moteur et les détonations de son fusil !
+
 Lundi matin, l'empereur, sa femme et le petit prince
 Sont venus chez moi pour me serrer la pince
 Comme j'étais parti, le petit prince a dit
@@ -382,5 +405,11 @@ Tempêtes, soeurs des ouragans ; firmament bleuâtre, dont je ferai bénir le no
  et cela prouve, en effet ! Aussitôt dans la maison par le chemin de halage pavé de cailloux bleus, 
 qui traînaient encore, avait réuni à petit bruit. Raconte-moi, je te l'avais ordonné ?
 
-Arc-bouté sur son volant, et j'allumai la sienne puis la mienne. Beauté spéciale, large et voûté. 
-Mercredi, il en cueillit une fleur du parterre de feux inhumains, horizontaux et splendides.
+Skyfall is where we start
+A thousand miles and poles apart
+Where worlds collide and days are dark
+You may have my number, you can take my name
+But you'll never have my heart
+
+Arc-bouté sur son volant, et j'allumai la sienne puis la mienne. Beauté spéciale, large et voûté. Mercredi, 
+il en cueillit une fleur du parterre de feux inhumains, horizontaux et splendides.
