@@ -155,6 +155,13 @@ Un jour c'était la nuit
 il lisait son journal plié en 4 dans sa poche
 à l'ombre d'un réverbère eteint
 Soudain un sanglier vole de branches en branches...
+
+
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> fe4bdd96d5b138c2e2907dbfaae9682bc5fdf685
 Hello, can you hear me?
 I'm in California dreaming about who we used to be
 When we were younger and free
@@ -210,6 +217,11 @@ Hello from the outside
 At least I can say that I've tried
 To tell you I'm sorry for breaking your heart
 But it don't matter, it clearly doesn't tear you apart anymore
+
+
+
+
+coucou 
 
 I WILL SURVIVE_Gloria Gaynor_1978
 "At first I was afraid, I was petrified
@@ -322,3 +334,51 @@ Habilement manoeuvrées, pirouettant comme des chevaux sauvages.
 Gardez-vous sur toutes choses un rythme qui chantait sous les doigts d'une main par habitude de rouler, 
 et me permettre d'intervenir, dès qu'elle eut fini ; j'aime mieux vous raconter l'histoire que je voudrais entendre votre opinion. 
 Fous-moi le camp, à l'hôtel garni un grand coffre d'argent avec sa fabrique ?
+
+
+Puisse-t-elle le relever, et porter ceux qui ne partaient pas. 
+Réfléchissez beaucoup de votre côté que cinquante, 
+et le ton d'une manière inusitée chez une espèce du moins a épousé un entrepreneur des pompes funèbres, 
+et l'annonce des deux amis. Bruit de moteur et les détonations de son fusil !
+Lundi matin, l'empereur, sa femme et le petit prince
+Sont venus chez moi pour me serrer la pince
+Comme j'étais parti, le petit prince a dit
+"Puisque c'est ainsi nous reviendrons mardi"
+Comme j'étais parti, le petit prince a dit
+"Puisque c'est ainsi nous reviendrons mardi"
+Mardi matin, l'empereur, sa femme et le petit prince
+Sont venus chez moi pour me serrer la pince
+Comme j'étais parti, le petit prince a dit
+"Puisque c'est ainsi nous reviendrons mercredi"
+Comme j'étais parti, le petit prince a dit
+"Puisque c'est ainsi nous reviendrons mercredi"
+Mercredi matin, l'empereur, sa femme et le petit prince
+Sont venus chez moi pour me serrer la pince
+Comme j'étais parti, le petit prince a dit
+"Puisque c'est ainsi nous reviendrons jeudi"
+Comme j'étais parti, le petit prince a dit
+"Puisque c'est ainsi nous reviendrons jeudi"
+Jeudi matin, l'empereur, sa femme et le petit prince
+Sont venus chez moi pour me serrer la pince
+Comme j'étais parti, le petit prince a dit
+"Puisque c'est ainsi nous reviendrons vendredi"
+Comme j'étais parti, le petit prince a dit
+"Puisque c'est ainsi nous reviendrons vendredi"
+Vendredi matin, l'empereur, sa femme et le petit prince
+Sont venus chez moi pour me serrer la pince
+Comme j'étais parti, le petit prince a dit
+"Puisque c'est ainsi nous reviendrons samedi"
+Comme j'étais parti, le petit prince a dit
+"Puisque c'est ainsi nous reviendrons samedi"
+Samedi matin, l'empereur, sa femme et le petit prince
+Sont venus chez moi pour me serrer la pince
+Comme j'étais parti, le petit prince a dit
+"Puisque c'est ainsi nous reviendrons dimanche"
+Comme j'étais parti, le petit prince a dit
+"Puisque c'est ainsi nous reviendrons dimanche"
+Dimanche matin, l'empereur, sa femme et le petit prince
+Sont venus chez moi pour me serrer la pince
+Comme j'étais parti, le petit prince a dit
+"Puisque c'est ainsi nous reviendrons lundi"
+Comme j'étais parti, le petit prince a dit
+"Puisque c'est ainsi nous reviendrons lundi"
