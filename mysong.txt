@@ -79,8 +79,6 @@ Cache tes pouvoirs, n'en parle pas
 Fais attention, le secret survivra
 Pas d'états d'âme, pas de tourments, de sentiments...
 
-<<<<<<< HEAD
-=======
 Il suffira d'une étincelle
 D'un rien, d'un geste
 Il suffira d'une étincelle
@@ -111,4 +109,8 @@ Un jour c'était la nuit
 il lisait son journal plié en 4 dans sa poche
 à l'ombre d'un réverbère eteint
 Soudain un sanglier vole de branches en branches...
->>>>>>> c741dab80a547d8b9230c777ac83d445f0dd116b
+
+Hello, can you hear me?
+I'm in California dreaming about who we used to be
+When we were younger and free
+I've forgotten how it felt before the world fell at our feet
