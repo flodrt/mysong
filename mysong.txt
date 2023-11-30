@@ -157,6 +157,11 @@ il lisait son journal plié en 4 dans sa poche
 Soudain un sanglier vole de branches en branches...
 
 
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> fe4bdd96d5b138c2e2907dbfaae9682bc5fdf685
 Hello, can you hear me?
 I'm in California dreaming about who we used to be
 When we were younger and free
