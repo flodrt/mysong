@@ -1,4 +1,123 @@
 on repart a zero ?
+         _____
+           | |   \
+           | |    \
+           | |     \___
+           | |         \
+           | |          \
+    0     _|_|___________|
+   /\/  /____|____________) 
+. /  \_|__________________| 
+|/__    | )(            )(
+| |\\  :| )(   ejm 97   )(
+
+
+
+
+   |\                |\                |\                |\
+   || .---.          || .---.          || .---.          || .---.
+   ||/_____\         ||/_____\         ||/_____\         ||/_____\
+   ||( '.' )         ||( '.' )         ||( '.' )         ||( '.' )
+   || \_-_/_         || \_-_/_         || \_-_/_         || \_-_/_
+   :-"`'V'//-.       :-"`'V'//-.       :-"`'V'//-.       :-"`'V'//-.
+  / ,   |// , `\    / ,   |// , `\    / ,   |// , `\    / ,   |// , `\
+ / /|Ll //Ll|| |   / /|Ll //Ll|| |   / /|Ll //Ll|| |   / /|Ll //Ll|| |
+/_/||__//   || |  /_/||__//   || |  /_/||__//   || |  /_/||__//   || |
+\ \/---|[]==|| |  \ \/---|[]==|| |  \ \/---|[]==|| |  \ \/---|[]==|| |
+ \/\__/ |   \| |   \/\__/ |   \| |   \/\__/ |   \| |   \/\__/ |   \| |
+ /\|_   | Ll_\ |   /|/_   | Ll_\ |   /|/_   | Ll_\ |   /|/_   | Ll_\ |
+ `--|`^"""^`||_|   `--|`^"""^`||_|   `--|`^"""^`||_|   `--|`^"""^`||_|
+    |   |   ||/       |   |   ||/       |   |   ||/       |   |   ||/
+    |   |   |         |   |   |         |   |   |         |   |   |
+    |   |   |         |   |   |         |   |   |         |   |   |
+    |   |   |         |   |   |         |   |   |         |   |   |
+    L___l___J         L___l___J         L___l___J         L___l___J
+     |_ | _|           |_ | _|           |_ | _|           |_ | _|
+jgs (___|___)         (___|___)         (___|___)         (___|___)
+     ^^^ ^^^           ^^^ ^^^           ^^^ ^^^           ^^^ ^^^
+
+
+Moi j'aime bien Ia fessée
+Ça m'chatouille
+Ça m'chatouille
+Moi j'aime bien Ia fessée
+Ça m'chatouille toute la journée
+La fessée que j'aime bien
+C'est la fessée du matin
+La fessée que j'aime bien
+C'est la fessée du matin
+Quand je mets la queue du chat
+Dans mon bol de chocolat
+Moi j'aime bien Ia fessée
+Ça m'chatouille
+Ça m'chatouille
+Moi j'aime bien Ia fessée
+Ça m'chatouille toute la journée
+La fessée que j'apprécie
+C'est la fessée de midi
+La fessée que j'apprécie
+C'est la fessée de midi
+Quand je reviens tout crotté
+Avec mon pull déchiré
+Moi j'aime bien Ia fessée
+Ça m'chatouille
+Ça m'chatouille
+Moi j'aime bien Ia fessée
+Ça m'chatouille toute la journée
+Y a la fessée de quatre heures
+Qui me remplit de bonheur
+Y a la fessée de quatre heures
+Qui me remplit de bonheur
+Quand je me pointe en retard
+Avec un œil au beurre noir
+Moi j'aime bien Ia fessée
+Ça m'chatouille
+Ça m'chatouille
+Moi j'aime bien Ia fessée
+Ça m'chatouille toute la journée
+Mais ma fessée préférée
+Je la garde pour Ia soirée
+Mais ma fessée préférée
+Je la garde pour Ia soirée
+Quand je découpe les rideaux
+Avec une paire de ciseaux
+Moi j'aime bien Ia fessée
+Ça m'chatouille
+Ça m'chatouille
+Moi j'aime bien Ia fessée
+Ça m'chatouille toute la journée
+Et comme le disent mes parents
+Ça fait circuler le sang
+Et comme le disent mes parents
+Ça fait circuler le sang
+La maison est bien plus gaie
+Quand on reçoit la fessée
+Moi j'aime bien Ia fessée
+Ça m'chatouille
+Ça m'chatouille
+Moi j'aime bien Ia fessée
+Ça m'chatouille toute la journée
+Moi j'aime bien Ia fessée
+Ça m'chatouille
+Ça m'chatouille
+Moi j'aime bien Ia fessée
+Ça m'chatouille toute la journée
+Moi j'aime bien Ia fessée
+Ça m'chatouille
+Ça m'chatouille
+Moi j'aime bien Ia fessée
+Ça m'chatouille toute la journée
+Moi j'aime bien Ia fessée
+Ça m'chatouille
+Ça m'chatouille
+Moi j'aime bien Ia fessée
+Ça m'chatouille toute la journéeGet up, stand up, stand up for your right
+
+
+Get up, stand up, stand up for your right
+Get up, stand up, stand up for your right
+Get up, stand up, don't give up the fight
+
 LANGUE
 ░░▄███▄███▄
 ░░█████████
@@ -24,7 +143,10 @@ LANGUE
 ██─██▀█─██─██─█─███─▄█▀█
 ▀▄▄▄▄▄▀▄▄▄▄▀▀▄▄▄▀▀▄▄▄▄▄▀
 
+LANGUE
     >ANGLAIS
+=======
+
 
     Get up, stand up, stand up for your right
     Get up, stand up, stand up for your right
@@ -476,6 +598,7 @@ il en cueillit une fleur du parterre de feux inhumains, horizontaux et splendide
 
 Rétrécie par l'ombre de ce rouleau. Cric, crac, c'est avoir eu bien froid dans cette tenue. 
 Correspondiez-vous, avec lui, quoiqu'ils aient encore des apprentis parmi eux, nous commençâmes à voler la nuit.
+
 Maître Corbeau, sur un arbre perché,
 Tenait en son bec un fromage.
 Maître Renard, par l'odeur alléché,
@@ -485,6 +608,10 @@ Que vous êtes joli ! que vous me semblez beau !
 Sans mentir, si votre ramage
 Se rapporte à votre plumage,
 Vous êtes le Phénix des hôtes de ces bois.
+
+Courir à la cuisine que dans sa bouche, elle a l'oeil mauvais dont les ailes, après tout. 
+Continuer de les servir sans tenir compte des exceptions. 
+Habillés et coiffés, ils n'excrètent pas pour le seul fait du passage d'un tourbillon.
 
 
 ****FOR FUN****
@@ -501,4 +628,5 @@ jgs \   ^   /
 
 
 GOOD MORNING EVERYONE
+Pas glop pas glop
 
